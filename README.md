@@ -22,3 +22,7 @@ Using Encoder we ecnoded hash,string from object to int64
 
 Now Uses XGBoost Classifier to fit our model 
 and classify it as malware or benign
+
+Also tried fuzzywuzzy to match columns percentage
+
+that Test with benign strings and malware strings
