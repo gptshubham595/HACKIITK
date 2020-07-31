@@ -26,3 +26,5 @@ and classify it as malware or benign
 Also tried fuzzywuzzy to match columns percentage
 
 that Test with benign strings and malware strings
+
+Usage python3 "malware check.py" "c:\HashContainingParentFolders"
